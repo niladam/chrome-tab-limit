@@ -1,3 +1,9 @@
+# THIS REPO IS NO LONGER IN USE
+
+This repo is no longer being used and a new one has been created to maintain this fork.
+
+The new repo is now [@niladam/tab-limiter](https://github.com/niladam/tab-limiter)
+
 # Tab Limiter
 
 #### A Chrome Extension that limits the number of open, non-pinned tabs to a specified value
